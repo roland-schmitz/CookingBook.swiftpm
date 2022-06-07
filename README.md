@@ -3,7 +3,7 @@
 Sample with programmatically controlled nested navigation in SwiftUI
 
 This sample uses a NavigationView with nested NavigationLink to first navigate
-to a recipe category (Starters, Main Dishes, Desserts) and than navigate to a specitic category.
+to a recipe category (Starters, Main Dishes, Desserts) and than navigate to a specitic recipe in that category.
 
 The current selection for the two levels of navigation is stored in two corresponding @State variables through some bindings.
 
