@@ -1,6 +1,6 @@
 # CookingBook.swiftpm
 
-Sample with programmatical controlled nested navigation in SwiftUI
+Sample with programmatically controlled nested navigation in SwiftUI
 
 This sample uses a NavigationView with nested NavigationLink to first navigate
 to a recipe category (Starters, Main Dishes, Desserts) and than navigate to a specitic category.
